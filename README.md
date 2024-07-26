@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **pkulkarni2152@sdsu.edu**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
