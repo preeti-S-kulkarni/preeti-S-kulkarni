@@ -15,6 +15,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preeti-s-kulkarni&show_icons=true&locale=en&layout=compact" alt="preeti-s-kulkarni" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=preeti-s-kulkarni&show_icons=true&locale=en" alt="preeti-s-kulkarni" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=preeti-s-kulkarni&show_icons=true&locale=en&layout=compact" alt="preeti-s-kulkarni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preeti-s-kulkarni&" alt="preeti-s-kulkarni" /></p>
