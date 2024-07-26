@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **pkulkarni2152@sdsu.edu**
 
-<p align="left">
-</p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preeti-s-kulkarni&show_icons=true&locale=en&layout=compact" alt="preeti-s-kulkarni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preeti-s-kulkarni&show_icons=true&locale=en" alt="preeti-s-kulkarni" /></p>
